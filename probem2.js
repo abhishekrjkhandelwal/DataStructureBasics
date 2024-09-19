@@ -54,3 +54,4 @@ function containsCommonItem3(arr1, arr2) {
 let ans3 = containsCommonItem3(array1, array2)
 
 console.log("ans3============+>", ans3)
+
